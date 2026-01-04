@@ -320,7 +320,7 @@ def compute_numeric_stats(
 
 
 
-
+print("Préparation des données...")
 
 # ---------------------------------------------------------------------------
 
